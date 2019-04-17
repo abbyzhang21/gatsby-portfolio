@@ -12,7 +12,7 @@ const IndexPage = () => (
     <p>Welcome to my new gatsby site</p>
     <p>Now let's build my my personal website</p>
     <p>a little by little</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
+    <div>
       <Image />
     </div>
     <Link to="/page-2/">Go to page 2</Link>
